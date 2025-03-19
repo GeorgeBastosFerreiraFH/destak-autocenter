@@ -1,0 +1,24 @@
+resources/
+├── icons/
+│   ├── app_icon.ico
+│   ├── app_icon.png
+│   ├── dashboard.png
+│   ├── clients.png
+│   ├── vehicles.png
+│   ├── orders.png
+│   ├── parts.png
+│   ├── employees.png
+│   ├── expenses.png
+│   ├── add.png
+│   ├── edit.png
+│   ├── delete.png
+│   ├── print.png
+│   ├── search.png
+│   ├── backup.png
+│   ├── restore.png
+│   ├── exit.png
+│   └── about.png
+├── images/
+│   └── splash.png
+└── styles/
+    └── main.css

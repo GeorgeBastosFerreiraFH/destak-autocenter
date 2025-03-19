@@ -1,0 +1,118 @@
+2025-03-18 14:43:50,209 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:43:50,209 - Auto Repair Shop - WARNING - Arquivo resources\splash.png não encontrado!
+2025-03-18 14:43:50,304 - Auto Repair Shop - INFO - Imagem splash.png criada com sucesso!
+2025-03-18 14:44:17,295 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:44:19,109 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:44:20,864 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:44:22,208 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:44:24,002 - Auto Repair Shop - ERROR - Erro ao carregar CSS: module 'config' has no attribute 'CSS_FILE'
+2025-03-18 14:46:04,221 - Auto Repair Shop - ERROR - Erro ao carregar CSS: [Errno 2] No such file or directory: 'c:\\Users\\ge-be\\OneDrive\\Documents\\Destak AutoCenter\\styles.css'
+2025-03-18 14:46:04,574 - Auto Repair Shop - INFO - Tabelas criadas com sucesso
+2025-03-18 14:46:04,575 - Auto Repair Shop - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 14:47:47,872 - Auto Repair Shop - ERROR - Erro ao carregar CSS: [Errno 2] No such file or directory: 'c:\\Users\\ge-be\\OneDrive\\Documents\\Destak AutoCenter\\main.css'
+2025-03-18 14:47:48,248 - Auto Repair Shop - INFO - Tabelas criadas com sucesso
+2025-03-18 14:47:48,248 - Auto Repair Shop - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 14:47:52,665 - Auto Repair Shop - ERROR - Erro ao carregar CSS: [Errno 2] No such file or directory: 'c:\\Users\\ge-be\\OneDrive\\Documents\\Destak AutoCenter\\main.css'
+2025-03-18 14:47:52,963 - Auto Repair Shop - INFO - Tabelas criadas com sucesso
+2025-03-18 14:47:52,964 - Auto Repair Shop - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 14:50:41,203 - Auto Repair Shop - ERROR - Erro ao carregar CSS: [Errno 2] No such file or directory: 'c:\\Users\\ge-be\\OneDrive\\Documents\\Destak AutoCenter\\main.css'
+2025-03-18 14:50:41,530 - Auto Repair Shop - INFO - Tabelas criadas com sucesso
+2025-03-18 14:50:41,531 - Auto Repair Shop - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 14:50:42,110 - Auto Repair Shop - WARNING - Não foi possível registrar fontes personalizadas: Can't open file "c:\Users\ge-be\OneDrive\Documents\Destak AutoCenter\resources\fonts\Roboto-Regular.ttf"
+2025-03-18 14:50:42,110 - Auto Repair Shop - WARNING - Usando fontes padrão do ReportLab
+2025-03-18 14:50:42,332 - Auto Repair Shop - INFO - Aplicativo iniciado
+2025-03-18 14:51:00,915 - Auto Repair Shop - INFO - Relatório de veículos solicitado
+2025-03-18 14:51:34,126 - Auto Repair Shop - INFO - Cliente adicionado com ID 1
+2025-03-18 15:00:14,462 - Auto Repair Shop - INFO - Tabelas criadas com sucesso
+2025-03-18 15:00:14,463 - Auto Repair Shop - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 15:00:15,161 - Auto Repair Shop - WARNING - Não foi possível registrar fontes personalizadas: Can't open file "c:\Users\ge-be\OneDrive\Documents\Destak AutoCenter\resources\fonts\Roboto-Bold.ttf"
+2025-03-18 15:00:15,162 - Auto Repair Shop - WARNING - Usando fontes padrão do ReportLab
+2025-03-18 15:00:15,332 - Auto Repair Shop - INFO - Aplicativo iniciado
+2025-03-18 15:00:58,531 - Auto Repair Shop - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:01:31,865 - Auto Repair Shop - INFO - Relatório de clientes solicitado
+2025-03-18 15:01:49,045 - Auto Repair Shop - INFO - Relatório de clientes solicitado
+2025-03-18 15:03:08,705 - Auto Repair Shop - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 15:03:48,985 - Destak Autocenter - INFO - Tabelas criadas com sucesso
+2025-03-18 15:03:48,985 - Destak Autocenter - ERROR - Erro ao configurar banco de dados: 0
+2025-03-18 15:03:49,503 - Destak Autocenter - WARNING - Não foi possível registrar fontes personalizadas: Can't open file "c:\Users\ge-be\OneDrive\Documents\Destak AutoCenter\resources\fonts\Roboto-Bold.ttf"
+2025-03-18 15:03:49,503 - Destak Autocenter - WARNING - Usando fontes padrão do ReportLab
+2025-03-18 15:03:49,628 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:04:01,413 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 15:21:22,196 - Destak Autocenter - WARNING - Não foi possível registrar fontes personalizadas: Can't open file "c:\Users\ge-be\OneDrive\Documents\Destak AutoCenter\resources\fonts\Roboto-Bold.ttf"
+2025-03-18 15:21:22,197 - Destak Autocenter - WARNING - Usando fontes padrão do ReportLab
+2025-03-18 15:21:22,588 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:21:30,826 - Destak Autocenter - INFO - Relatório de clientes solicitado
+2025-03-18 15:22:09,869 - Destak Autocenter - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:23:24,371 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:23:53,378 - Destak Autocenter - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:24:14,130 - Destak Autocenter - INFO - Peça adicionada com ID 1
+2025-03-18 15:24:31,257 - Destak Autocenter - INFO - Funcionário adicionado com ID 1
+2025-03-18 15:24:55,246 - Destak Autocenter - INFO - Gasto adicionado com ID 1
+2025-03-18 15:25:09,878 - Destak Autocenter - INFO - Gasto adicionado com ID 2
+2025-03-18 15:25:29,093 - Destak Autocenter - INFO - Gasto adicionado com ID 3
+2025-03-18 15:36:21,330 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:36:43,970 - Destak Autocenter - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:38:05,222 - Destak Autocenter - INFO - Backup do banco de dados solicitado
+2025-03-18 15:42:59,439 - Destak Autocenter - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:48:11,421 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:48:18,142 - Destak Autocenter - INFO - Relatório de clientes solicitado
+2025-03-18 15:48:57,729 - Destak Autocenter - INFO - Cliente 3 excluído
+2025-03-18 15:49:01,730 - Destak Autocenter - INFO - Cliente 4 excluído
+2025-03-18 15:49:39,494 - Destak Autocenter - ERROR - Erro ao salvar veículo: table vehicles has no column named brand_code
+2025-03-18 15:49:58,378 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 15:50:07,051 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 15:50:39,177 - Destak Autocenter - INFO - Cliente adicionado com ID 1
+2025-03-18 15:51:03,818 - Destak Autocenter - INFO - Cliente adicionado com ID 2
+2025-03-18 15:51:27,429 - Destak Autocenter - INFO - Cliente adicionado com ID 3
+2025-03-18 15:52:51,699 - Destak Autocenter - INFO - Peça adicionada com ID 1
+2025-03-18 15:53:15,492 - Destak Autocenter - INFO - Funcionário adicionado com ID 1
+2025-03-18 15:53:32,234 - Destak Autocenter - INFO - Funcionário adicionado com ID 2
+2025-03-18 15:53:56,174 - Destak Autocenter - INFO - Funcionário adicionado com ID 3
+2025-03-18 15:54:09,434 - Destak Autocenter - INFO - Gasto adicionado com ID 1
+2025-03-18 15:54:23,528 - Destak Autocenter - INFO - Gasto adicionado com ID 2
+2025-03-18 15:54:40,851 - Destak Autocenter - INFO - Gasto adicionado com ID 3
+2025-03-18 15:54:58,728 - Destak Autocenter - INFO - Peça adicionada com ID 2
+2025-03-18 15:55:10,428 - Destak Autocenter - INFO - Peça adicionada com ID 3
+2025-03-18 15:56:27,359 - Destak Autocenter - ERROR - Erro ao salvar ordem de serviço: arguments did not match any overloaded call:
+  save(self, fileName: Optional[str], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+  save(self, device: Optional[QIODevice], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+2025-03-18 15:56:50,686 - Destak Autocenter - INFO - Relatório de clientes solicitado
+2025-03-18 15:56:55,833 - Destak Autocenter - INFO - Relatório de veículos solicitado
+2025-03-18 15:56:59,298 - Destak Autocenter - INFO - Backup do banco de dados solicitado
+2025-03-18 15:57:06,390 - Destak Autocenter - INFO - Restauração de backup solicitada
+2025-03-18 15:57:11,476 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 16:12:27,628 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 16:13:38,172 - Destak Autocenter - ERROR - Erro ao salvar ordem de serviço: arguments did not match any overloaded call:
+  save(self, fileName: Optional[str], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+  save(self, device: Optional[QIODevice], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+2025-03-18 16:17:04,413 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 16:18:09,863 - Destak Autocenter - ERROR - Erro ao salvar ordem de serviço: arguments did not match any overloaded call:
+  save(self, fileName: Optional[str], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+  save(self, device: Optional[QIODevice], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+2025-03-18 16:26:58,453 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 16:27:26,477 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 16:43:38,311 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 16:45:05,872 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 16:45:21,025 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 17:47:22,462 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 17:48:30,008 - Destak Autocenter - ERROR - Erro ao salvar ordem de serviço: arguments did not match any overloaded call:
+  save(self, fileName: Optional[str], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+  save(self, device: Optional[QIODevice], format: Optional[str] = None, quality: int = -1): argument 1 has unexpected type '_io.BytesIO'
+2025-03-18 17:51:20,684 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 17:51:25,127 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 17:52:01,577 - Destak Autocenter - INFO - Ordem de serviço adicionada com ID 1
+2025-03-18 17:52:22,290 - Destak Autocenter - ERROR - Erro ao gerar PDF: "Style 'Title' already defined in stylesheet"
+2025-03-18 17:52:22,783 - Destak Autocenter - ERROR - Erro ao pintar visualização: No module named 'PyQt5.QtPdf'
+2025-03-18 17:52:28,951 - Destak Autocenter - ERROR - Erro ao atualizar ordem de serviço 1: 'number'
+2025-03-18 17:52:31,955 - Destak Autocenter - ERROR - Erro ao gerar PDF: "Style 'Title' already defined in stylesheet"
+2025-03-18 17:54:10,622 - Destak Autocenter - INFO - Ordem de serviço 1 atualizada
+2025-03-18 17:54:17,449 - Destak Autocenter - INFO - Ordem de serviço 1 atualizada
+2025-03-18 17:56:23,164 - Destak Autocenter - INFO - Aplicativo encerrado pelo usuário
+2025-03-18 18:07:05,914 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 18:07:43,185 - Destak Autocenter - INFO - Relatório de clientes solicitado
+2025-03-18 18:09:08,506 - Destak Autocenter - INFO - Cliente adicionado com ID 4
+2025-03-18 19:28:47,606 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 19:29:59,147 - Destak Autocenter - INFO - Aplicativo iniciado
+2025-03-18 19:30:11,339 - Destak Autocenter - INFO - Cliente 4 excluído
+2025-03-18 19:30:41,309 - Destak Autocenter - ERROR - Erro ao gerar PDF: "Style 'Title' already defined in stylesheet"
+2025-03-18 19:30:41,758 - Destak Autocenter - ERROR - Erro ao pintar visualização: No module named 'PyQt5.QtPdf'
